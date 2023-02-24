@@ -24,16 +24,14 @@ body {
 .ochem {
   color: #fff;
 }
-.adres {
+.lk {
   display: flex;
   align-items: center;
   color: #fff;
-  
 }
-.adres a {
+.lk a {
   text-decoration: none;
   color: cornflowerblue;
-  margin-left: 15px;
 }
 .main{
   height: 70px;

@@ -24,16 +24,14 @@ body {
 .ochem {
   color: #fff;
 }
-.adres {
+.lk {
   display: flex;
   align-items: center;
   color: #fff;
-  
 }
-.adres a {
+.lk a {
   text-decoration: none;
   color: cornflowerblue;
-  margin-left: 15px;
 }
 .main{
   height: 70px;
@@ -149,6 +147,7 @@ body {
   color: #000;
   border-bottom: 1px solid transparent;
   transition: 0.3s;
+  font-family: 'Shantell Sans', cursive;
 }
 .VK p {
   padding-left: 5px;
@@ -156,7 +155,6 @@ body {
 }
 .VK:hover{
   border-bottom: 1px solid #000;
-  font-size: 18px;
 }
 .VK i {
   font-size: 30px;
@@ -166,7 +164,9 @@ body {
   align-items: center;
   color: #000;
   border-bottom: 1px solid transparent;
+  font-size: 20px;
   transition: 0.3s;
+  font-family: 'Shantell Sans', cursive;
 }
 .INST p {
   padding-left: 5px;
@@ -174,7 +174,6 @@ body {
 }
 .INST:hover{
   border-bottom: 1px solid #000;
-  font-size: 18px;
 }
 .INST i {
   font-size: 30px;
