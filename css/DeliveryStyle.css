@@ -94,7 +94,7 @@ a {
   color: black;
 }
 .box {
-  height: 1150px;
+  height: 1170px;
   width: auto;
   background-color: #fff;
   display: flex;
@@ -115,6 +115,7 @@ a {
   display: flex;
   justify-content: center;
   margin: 0;
+  margin-bottom: px;
 }
 .market h3 {
   font-family: 'Shantell Sans', cursive;
@@ -142,6 +143,7 @@ a {
 }
 .map {
   padding-right: 100px;
+  margin-top: 20px;
 }
 .pochta {
   width: 1300px;
