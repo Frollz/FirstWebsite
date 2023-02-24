@@ -4,7 +4,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-family: 'Roboto', sans-serif;
-  background-color: #f0f0f0;
+  background-color: #fff;
 }
 .top_line {
   height: 42px;
@@ -22,12 +22,12 @@ body {
   font-size: 13px;
 }
 .ochem {
-  color: #f0f0f0;
+  color: #fff;
 }
 .adres {
   display: flex;
   align-items: center;
-  color: #f0f0f0;
+  color: #fff;
   
 }
 .adres a {
@@ -38,13 +38,13 @@ body {
 .main{
   height: 70px;
   margin: 0 auto;
-  background-color: #f0f0f0;
+  background-color: #fff;
 }
 .header {
   width: 1300px;
   height: 70px;
   display: flex;
-  background-color: #f0f0f0;
+  background-color: #fff;
   justify-content: space-between;
   align-items: center;
   margin: 0 auto;
@@ -58,7 +58,7 @@ body {
   margin: 0;
   padding: 20px;
   font-weight: 900;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Shantell Sans', cursive;
 }
 .nav {
   display: flex;
@@ -80,11 +80,11 @@ body {
   align-content: center;
   color: black;
   padding-bottom: 9px;
+  font-family: 'Shantell Sans', cursive;
   border-bottom: 1px solid transparent;
   transition: 0.3s;
 }
 .nav a:hover{
-  color: black;
   border-bottom: 1px solid black;
 }
 a {
