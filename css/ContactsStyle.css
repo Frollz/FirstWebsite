@@ -90,12 +90,13 @@ body {
   border-bottom: 1px solid black;
 }
 .second_main {
-  height: 500px;
+  height: 775px;
   margin: 0 auto;
   background-color: #fff;
   justify-content: center;
   display: flex;
   margin-top: 30px;
+  align-items: center;
 }
 .oglavlenie {
   height: 500px;
